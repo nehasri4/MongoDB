@@ -74,6 +74,16 @@ int main() {
 
 
 
+
+
+
+
+
+
+
+
+
+
 //leaky bucket
 #include <stdio.h>
 
@@ -120,6 +130,13 @@ t, dropped);
 
 
 
+
+
+
+
+
+
+
 // sliding window 
 #include <stdio.h>
 
@@ -159,6 +176,10 @@ int main() {
  transmitted!\n");
     return 0;
 } 
+
+
+
+
 
 
 
